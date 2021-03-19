@@ -1,22 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="google-site-verification" content="PEJb77ASEZ-qJjfbESt7vtkjC3wYsryCsjVnU8-ejL0" />
-    <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="twitter:site" content="@307infusionpharmacy" />
-  <meta name="twitter:creator" content="@307infusionpharmacy">
-    <meta property="og:locale" content="en_US">
-    <meta property="og:type" content="article">
-    <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:image" content="{{ site.url }}/thumbs/{{ page.image }}" />
-    <meta property="og:site_name" content="WebJeda Blog">
-    <meta property="article:publisher" content="http://www.facebook.com/307infusionpharmacy" />
-    <meta property="article:author" content="https://www.facebook.com/307infusionpharmacy" />
-    <meta property="article:published_time" content="{{ page.date }}" />
-    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
