@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact Us
+description: How to contact 307 Infusion Pharmacy.
 permalink: /contact/
 ---
 
