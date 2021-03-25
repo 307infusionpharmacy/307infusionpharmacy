@@ -1,2 +1,2 @@
-RewriteCond %{HTTP_HOST} !^307infusionpharmacy.com$ [NC]
+RewriteCond %{HTTP_HOST} !^www.307infusionpharmacy.com$ [NC]
 RewriteRule ^(.*)$ http://www.307infusionpharmacy.com/$1 [L,R=301]
