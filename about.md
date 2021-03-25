@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Us
+description: More about 307 Infusion Pharmacy.
 permalink: /about/
 ---
 
