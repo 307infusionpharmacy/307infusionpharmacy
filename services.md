@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Services
+description: Services that are offered by 307 Infusion Pharmacy.
 permalink: /services/
 ---
 
