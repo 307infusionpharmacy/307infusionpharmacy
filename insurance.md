@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Insurance
+description: Insurances that are accepted by 307 Infusion Pharmacy.
 permalink: /insurance/
 ---
 
