@@ -3,6 +3,8 @@ layout: page
 title: About Us
 description: More about 307 Infusion Pharmacy.
 permalink: /about/
+page.redirect.from: 307infusionpharmacy.com/about/
+page.redirect.to: www.307infusionpharmacy.com/about/
 ---
 
 307 Infusion Pharmacy is a Wyoming owned and operated infusion pharmacy offering a variety of

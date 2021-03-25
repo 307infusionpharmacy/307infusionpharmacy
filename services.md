@@ -3,6 +3,8 @@ layout: page
 title: Services
 description: Services that are offered by 307 Infusion Pharmacy.
 permalink: /services/
+page.redirect.from: 307infusionpharmacy.com/services/
+page.redirect.to: www.307infusionpharmacy.com/services/
 ---
 
 

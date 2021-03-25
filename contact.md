@@ -3,6 +3,8 @@ layout: page
 title: Contact Us
 description: How to contact 307 Infusion Pharmacy.
 permalink: /contact/
+page.redirect.from: 307infusionpharmacy.com/contact/
+page.redirect.to: www.307infusionpharmacy.com/contact/
 ---
 
 
