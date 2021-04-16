@@ -40,5 +40,5 @@ Casper, WY 82601
   </div>
 </form>
 
-Anticipated opening April 19, 2021.
+Anticipated opening May 3rd, 2021.
 Like us on Facebook!
