@@ -7,7 +7,7 @@ page.redirect.from: 307infusionpharmacy.com/contact/
 page.redirect.to: www.307infusionpharmacy.com/contact/
 ---
 
-
+<h1>We are now accpeting referrals!</h1>
 
 307 Infusion Pharmacy is open 8 am to 5 pm Monday thru Friday. 
 
@@ -40,5 +40,4 @@ Casper, WY 82601
   </div>
 </form>
 
-Anticipated opening May 3rd, 2021.
 Like us on Facebook!
