@@ -491,6 +491,13 @@ button#submitbutton {
     padding: 10px;
     margin-left: 90px;
 }
+
+#togglemenu {display: none; cursor: pointer;}
+@media (max-width: 1000px) {
+    #togglemenu {display: block;}
+    #menu ul {display: none;}
+    .menuopen #menu ul {display: block;}
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
