@@ -263,8 +263,9 @@ nav {
   margin-bottom: -1.7em;
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 55rem) {
   nav {
+  display: off;
   margin-bottom: -1.4em;
     float: right;
     /* display: block; */
@@ -300,10 +301,11 @@ nav a {
   letter-spacing: .02em;
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 55rem) {
   nav a {
-  min-inline-size: -webkit-fill-available;
-  margin: 5px 60px;
+  display: none;
+  /* min-inline-size: -webkit-fill-available;
+  margin: 5px 60px; */
     /* color: #FFFFFF; */
   }
 }
