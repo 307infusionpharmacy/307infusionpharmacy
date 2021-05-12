@@ -265,7 +265,7 @@ nav {
 
 @media screen and (max-width: 55rem) {
   nav {
-  display: off;
+  /*display: off;*/
   margin-bottom: -1.4em;
     float: right;
     /* display: block; */
@@ -303,9 +303,9 @@ nav a {
 
 @media screen and (max-width: 55rem) {
   nav a {
-  display: none;
-  /* min-inline-size: -webkit-fill-available;
-  margin: 5px 60px; */
+  /*display: none;*/
+  min-inline-size: -webkit-fill-available;
+  margin: 5px 60px; 
     /* color: #FFFFFF; */
   }
 }
