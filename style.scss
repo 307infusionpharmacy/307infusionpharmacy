@@ -252,7 +252,7 @@ header.masthead.clearfix {
     margin: 1em 1em;
   }
 }
-nav {
+nav (min-width: 56rem) {
   /* background-color: #002868; */
   /* -webkit-border-radius: 15px 15px 0px 0px; */
   margin-top: 1em;
@@ -265,13 +265,13 @@ nav {
 
 @media screen and (max-width: 55rem) {
   nav {
-  /*display: off;*/
-  margin-bottom: -1.4em;
+  display: off;
+    /*margin-bottom: -1.4em;
     float: right;
-    /* display: block; */
-    /* margin-top: 1em; */
+    display: block; 
+    margin-top: 1em;
     font-size: 1.47em;
-    /* vertical-align: middle; */
+    vertical-align: middle; */
   }
 }
 nav a.selected, nav a:hover {
@@ -290,7 +290,7 @@ nav a:active {
   color: lightGray;
 }
 
-nav a {
+nav a (min-width: 56rem) {
   background-color: #ffffff;
   /* border-radius: 20px 20px 0px 0px; */
   display: inline-block;
@@ -303,9 +303,9 @@ nav a {
 
 @media screen and (max-width: 55rem) {
   nav a {
-  /*display: none;*/
-  min-inline-size: -webkit-fill-available;
-  margin: 5px 60px; 
+  display: none;
+  /*min-inline-size: -webkit-fill-available;
+  margin: 5px 60px; */
     /* color: #FFFFFF; */
   }
 }
@@ -497,8 +497,8 @@ button#submitbutton {
 #togglemenu {display: none; cursor: pointer;}
 @media (max-width: 1000px) {
     #togglemenu {display: block;}
-    #menu ul {display: none;}
-    .menuopen #menu ul {display: block;}
+    nav-main ul {display: none;}
+    .menuopen nav-main ul {display: block;}
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
