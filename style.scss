@@ -265,13 +265,12 @@ nav {
 
 @media screen and (max-width: 55rem) {
   nav {
-  display: off;
-    /*margin-bottom: -1.4em;
+    margin-bottom: -1.4em;
     float: right;
     display: block; 
     margin-top: 1em;
     font-size: 1.47em;
-    vertical-align: middle; */
+    vertical-align: middle;
   }
 }
 nav a.selected, nav a:hover {
@@ -303,9 +302,8 @@ nav a {
 
 @media screen and (max-width: 55rem) {
   nav a {
-  display: none;
-  /*min-inline-size: -webkit-fill-available;
-  margin: 5px 60px; */
+  min-inline-size: -webkit-fill-available;
+  margin: 5px 60px; 
     /* color: #FFFFFF; */
   }
 }
@@ -494,12 +492,12 @@ button#submitbutton {
     margin-left: 90px;
 }
 
-#togglemenu {display: none; cursor: pointer;}
+/*#togglemenu {display: none; cursor: pointer;}
 @media (max-width: 1000px) {
     #togglemenu {display: block;}
     nav-main ul {display: none;}
     .menuopen nav-main ul {display: block;}
-}
+}*/
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
