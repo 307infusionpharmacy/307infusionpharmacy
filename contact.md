@@ -34,6 +34,7 @@ Casper, WY 82601
   <div class=messagebox>
     <label for="textarea" id="messagelabel">Message</label>
     <textarea type="text" name="message" class="form-control" id="InputMessage"></textarea>
+    <div class="g-recaptcha" data-sitekey="6LdmGdscAAAAAI4h5RrfFovT-JeTXg61U4VVS6Zi"></div>
   </div>
   <div class="submit">
     <button type="submit" id="submitbutton">Send</button>
