@@ -6,7 +6,7 @@ permalink: /about/
 page.redirect.from: 307infusionpharmacy.com/about/
 page.redirect.to: www.307infusionpharmacy.com/about/
 ---
-
+<h1>We regret to inform you that 307 Infusion Pharmacy, LLC will be permanently closing. Our last day of operations will be May 20, 2022. If you have been a patient and would like to obtain your medical records please contact our office at 307.333.1054.</h1>
 307 Infusion Pharmacy is a Wyoming owned and operated infusion pharmacy offering a variety of
 infusion therapies that can be safely administered in the comfort of your own home. We also have a
 quiet and comfortable infusion suite in Casper for specialty infusions with convenient and
