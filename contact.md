@@ -7,7 +7,7 @@ page.redirect.from: 307infusionpharmacy.com/contact/
 page.redirect.to: www.307infusionpharmacy.com/contact/
 ---
 
-<h1>We are now accepting referrals!</h1>
+<h1>We regret to inform you that 307 Infusion Pharmacy, LLC will be permanently closing. Our last day of operations will be May 20, 2022. If you have been a patient and would like to obtain your medical records please contact our office at 307.333.1054.</h1>
 
 307 Infusion Pharmacy is open 8 am to 5 pm Monday thru Friday. 
 
@@ -22,7 +22,7 @@ Email: staff@307infusionpharmacy.com
 1030 N. Poplar St., Suite A
 Casper, WY 82601
 
-<form action="https://getform.io/f/422458b7-2be9-4f6f-a073-16f0fb0dfa85" method="POST" id="contact">
+<!--*<form action="https://getform.io/f/422458b7-2be9-4f6f-a073-16f0fb0dfa85" method="POST" id="contact">
   <div class=namebox>
     <label for="exampleInputName" id="namelabel">Name</label>
     <input type="text" name="name" class="form-control" id="InputName" placeholder="Enter your name" required="required">
@@ -39,6 +39,5 @@ Casper, WY 82601
   <div class="submit">
     <button type="submit" id="submitbutton">Send</button>
   </div>
-</form>
+</form>*-->
 
-Like us on Facebook!
